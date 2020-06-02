@@ -18,5 +18,5 @@ Korisnik bi ispunjavanjem forme i njenim slanjem generirao XML datoteku, s datum
 XML je zapisan pomoću php-a, a sama forma je realizirana pomoću HTML5-a i CSS-a (W3 custom CSS + Bootstrap + vlastiti CSS). 
 Svaki XML u imenu ima datum i vrijeme kada je ispunjen pa na temelju toga, korisnik može voditi dnevnik o putovanju.
 
-Link na github: https://github.com/TonkoB/XML-projekt.git
+Link na github: https://github.com/TonkoB/XML-projekt.git <br>
 Link na YT video: https://youtu.be/yyD7L_IvVeo
